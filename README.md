@@ -1,6 +1,6 @@
 # Training Projects - Distance Calculator Between Two Points - V 2.0
 
-This is an app To Calculat The Distance Between Two Points In a 2-Dimensional coordinate system
+This is an app To Calculate The Distance Between Two Points In a 2-Dimensional coordinate system
 
 ## Table of contents
 
