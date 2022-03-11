@@ -15,8 +15,8 @@ This is an app To Calculat The Distance Between Two Points In a 2-Dimensional co
 
 ### Screenshot
 
-![](https://raw.githubusercontent.com/Mohamed-Waled/Distance-Calculator-Between-Two-Points-V-2.0/main/Images/Screenshot%202022-03-11%20at%2020-55-43%20Distance%20Calculator%20Between%20Two%20Points.png)
-![](https://raw.githubusercontent.com/Mohamed-Waled/Distance-Calculator-Between-Two-Points-V-2.0/main/Images/Screenshot%202022-03-11%20at%2020-55-51%20Distance%20Calculator%20Between%20Two%20Points.png)
+![](https://raw.githubusercontent.com/Mohamed-Waled/Distance-Calculator-Between-Two-Points-V-2.0/main/Images/Disktop.png)
+![](https://raw.githubusercontent.com/Mohamed-Waled/Distance-Calculator-Between-Two-Points-V-2.0/main/Images/Mobile.png)
 
 ### Links
 
