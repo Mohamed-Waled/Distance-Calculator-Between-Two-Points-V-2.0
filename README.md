@@ -10,6 +10,7 @@ This is an app To Calculate The Distance Between Two Points In a 2-Dimensional c
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
+- [Contributes](#contributes)
 
 ## Overview
 
@@ -35,6 +36,6 @@ This is an app To Calculate The Distance Between Two Points In a 2-Dimensional c
 
 - Linkedin - [@mohamed-waled](https://www.linkedin.com/in/mohamed-waled-82a51a1bb/)
 
-## Contribute
+## Contributes
 
 - Co-Designer - [@Mohamed Abdallah](https://www.linkedin.com/in/mohamed-abdallah-a94158222/)
