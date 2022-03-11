@@ -2,7 +2,7 @@
 
 const button = document.querySelector('#Calc');
 
-//Make The Button Have Function To Do
+//Make The Button Have Function To Do !
 
 button.addEventListener("click", calculateTheResult);
 
