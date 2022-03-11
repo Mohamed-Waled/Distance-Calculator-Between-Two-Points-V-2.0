@@ -34,3 +34,7 @@ This is an app To Calculate The Distance Between Two Points In a 2-Dimensional c
 ## Author
 
 - Linkedin - [@mohamed-waled](https://www.linkedin.com/in/mohamed-waled-82a51a1bb/)
+
+## Contribute
+
+- Co-Designer - [@Mohamed Abdallah](https://www.linkedin.com/in/mohamed-abdallah-a94158222/)
