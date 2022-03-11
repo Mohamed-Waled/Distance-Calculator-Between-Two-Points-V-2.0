@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/calculator-solid.svg">
+    <link rel="stylesheet" href="./CSS/normalize.css">
+    <link rel="stylesheet" href="./CSS/bootstrap.min.css">
+    <link rel="stylesheet" href="./CSS/main-style.css">
+
+    <title>Distance Calculator Between Two Points</title>
+</head>
+<body>
+
+    <div class="container-fluid">
+        <nav>
+            <a href="https://mohamed-waled.github.io/The-Distance-Between-Two-Points/">Distance Calculator Between Two Points</a>
+        </nav>
+        <div class="main">
+            <div class="info-container">
+                <div class="info">
+                    <h1>How to calculate the distance between two points in a 2-Dimensional coordinate system ?</h1>
+                    <p>Use Our Website. Just That Simple!</p>
+                </div>
+                <div class="info">
+                    <h1>2-Dimensional coordinate system : (X<sub>1</sub> , Y<sub>1</sub>) & (X<sub>2</sub> , Y<sub>2</sub>)</h1>
+                    <p style="font-weight: normal;">The Formula : <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b7e274ffcb5fcc94265e61d3dde0e7a518059a71" alt="formula to calculate the distance between two points"></p>
+                </div>
+            </div>
+            <div class="calculator">
+                <div class="first-point">
+                    <div class="first-point-x">
+                        <label for="first_pointx">Enter X<sub>1</sub> Here :</label>
+                        <input type="text" id="first_pointx" placeholder="(e.g. 5)">
+                    </div>
+                    <div class="first-point-y">
+                        <label for="firts_pointy">Enter Y<sub>1</sub> Here :</label>
+                        <input type="text" id="first_pointy" placeholder="(e.g. 6)">
+                    </div>
+                </div>
+
+               <div class="second-point">
+                <div class="second-point-x">
+                    <label for="second_pointx">Enter X<sub>2</sub> Here :</label>
+                    <input type="text" id="second_pointx" placeholder="(e.g. 7)">
+                </div>
+                <div class="second-point-y">
+                    <label for="second_pointy">Enter Y<sub>2</sub> Here :</label>
+                    <input type="text" id="second_pointy" placeholder="(e.g. 8)">
+                </div>
+               </div>
+
+               <button id="Calc" type="submit"> Calculate </button>
+
+                <div id="result"></div>
+            </div>
+        </div>
+        <footer>
+            <h6>&copy; Intellectual property rights reserved to ENG: Abdul Rahman Emad 2021</h6>
+            <h6>&copy; The copyright of the code is reserved to <a href="https://github.com/Mohamed-Waled">ENG: Mohamed Waled</a> 2022</h6>
+        </footer>
+    </div>
+    
+    <script src="./JS/bootstrap.bundle.min.js" type="text/javascript"></script>
+    <script src="./JS/app.js" type="text/javascript"></script>
+
+</body>
+</html>
